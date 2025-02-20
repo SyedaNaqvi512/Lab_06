@@ -5,3 +5,5 @@ for (int i = 0; i < groceryItems.Length; i++)
   {
   Console.WriteLine($"{i + 1}. {groceryItems[i]}";
   }                    
+
+Console.WriteLine("Cheese");
